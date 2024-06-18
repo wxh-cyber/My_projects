@@ -1,0 +1,37 @@
+{
+  "id": "4320411",
+  "name": "chart",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "982596",
+      "name": "图表",
+      "font_class": "tubiao",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "1680708",
+      "name": "图表统计",
+      "font_class": "tubiaotongji",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "35584921",
+      "name": "图表 (2)",
+      "font_class": "a-tubiao2",
+      "unicode": "eb41",
+      "unicode_decimal": 60225
+    },
+    {
+      "icon_id": "35584926",
+      "name": "图表 (3)",
+      "font_class": "a-tubiao3",
+      "unicode": "eb42",
+      "unicode_decimal": 60226
+    }
+  ]
+}
